@@ -57,8 +57,9 @@
 }
 
 .header__address {
-    max-width: 420px;
-    padding: 0 0 0 184px;
+    max-width: 240px;
+    justify-self: end;
+
 }
 
 .address {
@@ -328,6 +329,6 @@
     list-style: none;
     padding: 1px 0 0 93px;
 }
-.footer_address_link {
-    display: block;
+.footer_address {
+    width: 264px;
 }
